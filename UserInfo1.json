@@ -1,0 +1,14 @@
+{
+  "Users": {
+    "JackNoble-Miller": {
+      "UID": 1,
+      "Password": "password",
+      "Age": 14
+    },
+    "Bob": {
+      "UID": 2,
+      "Password": "BobIsCool",
+      "Age": 15
+    }
+  }
+}
